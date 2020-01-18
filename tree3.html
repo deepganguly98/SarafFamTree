@@ -16,16 +16,24 @@ body, html {
 }
 
 .bg {
-  /* The image used */
-  background-image: url("B5.jpg");
+  background-image: url("bg/Bagaria _Horizontal.jpg");
+  
+  
 
   /* Full height */
   height: 100%; 
+  
 
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 99.99% 99.99%;
+}
+
+@media only screen and (max-device-width: 450px) {
+  .bg { 
+     background-image: url('bg/Bagaria-Vertical.jpg'); 
+  }
 }
 </style>
 

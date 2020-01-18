@@ -18,16 +18,24 @@ body, html {
 }
 
 .bg {
-  /* The image used */
-  background-image: url("H4.jpg");
+  background-image: url("bg/Harlalka_Horizontal.jpg");
+  
+  
 
   /* Full height */
   height: 100%; 
+  
 
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 99.99% 99.99%;
+}
+
+@media only screen and (max-device-width: 450px) {
+  .bg { 
+     background-image: url('bg/Harlalka-Vertical.jpg'); 
+  }
 }
 </style>
 
