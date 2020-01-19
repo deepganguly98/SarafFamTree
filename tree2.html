@@ -7,8 +7,9 @@
     <title>Harlalka Tree</title>
     <link rel="stylesheet" href="Treant.css">
     <link rel="stylesheet" href="collapsable2.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
-    <link rel="stylesheet" href="perfect-scrollbar/perfect-scrollbar.css">
+    <!--<link rel="stylesheet" href="perfect-scrollbar/perfect-scrollbar.css">-->
 
 
     <style>
@@ -31,16 +32,32 @@ body, html {
   background-repeat: no-repeat;
   background-size: 99.99% 99.99%;
 }
+#back{
+  display: none;
+}
 
-@media only screen and (max-device-width: 450px) {
+@media only screen and (max-device-width: 500px) {
   .bg { 
      background-image: url('bg/Harlalka-Vertical.jpg'); 
+  }
+  #back{
+    display:block;
+    position:absolute;
+    top:0.05%;
+    left:0.05%;
+    height:7%;
+    width:10%;
+    text-align: center;
+
   }
 }
 </style>
 
 </head>
 <body>
+  <div id="back" style="
+  background-color: #CC7722;
+  border-color: #CC7722;"><a href="index.html" style="text-decoration: none; color:white;font-size: 2em;" class="fa fa-angle-left"></a></div>
 <div class="bg"></div>
     <div class="chart" id="collapsable-example"></div>
     <script src="raphael.js"></script>
