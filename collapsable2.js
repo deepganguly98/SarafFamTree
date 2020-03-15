@@ -24,20 +24,22 @@
                 { 
                     collapsable:true,
 					text: {	
-						title:"Ram Kumar Saraf"
+                        title:"Smt.",
+                        name:"Ram Kumar Saraf"
                     }
                 },
                 {
                     collapsable:true,
                     text:{
-                        title:"Baccha Ram Parasrampuria"
+                        title:"Smt.",
+                        name:"Baccha Ram Parasrampuria"
                     },
                 },
 				{
                     collapsable:true,
 					text: {
-                        title:"Gajanand Jalan",
-                        wife:"Wife - Banarasi Devi"
+                        title:"Banarasi Devi",
+                        name:"Gajanand Jalan"
 					},
                     children: [
                         {
@@ -50,7 +52,7 @@
                             collapsable:true,
                             text:{
                                 title:"Budhar Mal Saraogi",
-                                wife:"Giniya Devi"
+                                name:"Giniya Devi"
                             },
                             children:[
                                 {
@@ -64,8 +66,9 @@
                         {
                             collapsable:true,
                             text:{
-                                title:"Kishan Lal Kakrania",
-                                wife:"Gayatri Devi"
+                                
+                                title:"Gayatri Devi",
+                                name:"Kishan Lal Kakrania"
                             },
                             childrenDropLevel:3,
                             children:[
@@ -120,8 +123,8 @@
                 {
                     collapsable:true,
                         text: {
-                            title:"Kamala Devi (Second Wife)",
-                            name:"Durga Dutt Saraf"
+                            title:"Kamala Devi  (second wife)",
+                            name:"Durga Dutt Saraf (Maniya Devi - first wife)"
                     
                         },
                         childrenDropLevel: 5,
@@ -150,8 +153,8 @@
                         {
                             collapsable:true,
                             text:{
-                                title:"Parmeswari Devi (First Wife)",
-                                name:"Gouri Sankar Maskara"
+                                title:"Parmeswari Devi",
+                                name:"Gouri Sankar Maskara -(Bagawati Devi -second wife)"
                             }
                         },
                         {
@@ -195,15 +198,15 @@
                         {
                             collapsable:true,
                             text:{
-                                title:"Hardei Devi",
-                                name:"(First Wife)"
+                                title:"Hardei Devi  (First wife)",
+                                name:"Beshesar lal Poddar  (Mahadei Devi -second wife)"
                             },
                             childrenDropLevel : 0,
                             children: [
                             {
                                 collapsable:true,
                                 text:{
-                                    title:"(Adopted) Sohan lal Poddar"
+                                    title:"Sohan lal Poddar (Adopted)"
                                 },
                                 children:[
                                 {
@@ -258,14 +261,14 @@
                     collapsable:true,
                     text:{
                         title:"Shiv Bux Harlalka",
-                        wife:"Wife - Narayani Devi"
+                        name:"Narayani Devi"
                     },
                     children: [
                         {
                             collapsable:true,
                             text:{
                                 title:"Purshottam Harlalka",
-                                wife:"Wife - Raj Kumari"
+                                name:"Raj Kumari"
                             },
                             
                             children : [

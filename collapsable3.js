@@ -67,7 +67,7 @@
                                                     },
                                                     children:[
                                                         {
-                                                            //collapsed:true,
+                                                            collapsed:true,
                                                             text:{
                                                                 title:"Jokhi Ram Bagaria"
                                                             },
@@ -164,7 +164,8 @@
                                                                                         {
                                                                                             //collapsed:true,
                                                                                             text:{
-                                                                                                title:"(adopted) Girdhari Lal Bagaria",
+                                                                                                title:"Girdhari Lal Bagaria",
+                                                                                                desc:"(adopted from Babu Lal & Purni Devi Bagaria)",
                                                                                                 name:"Sushila"
                                                                                             },
                                                                                             children:[
@@ -230,8 +231,14 @@
                                                                             //collapsed:true,
                                                                             text:{
                                                                                 title:"Babu Lal Bagaria",
-                                                                                name:"(adopted by Rameshwar Lal Bagaria)"
+                                                                                desc:" (Adopted from Hardeo Das Bagaria)",
+                                                                                name:"Purni Devi"
 
+                                                                            }
+                                                                        },
+                                                                        {
+                                                                            text:{
+                                                                                title:"Bagaria Ji"
                                                                             }
                                                                         }
                                                                     ]
@@ -239,7 +246,8 @@
                                                                 {
                                                                     //collapsed:true,
                                                                     text: {
-                                                                        title:"Rameshwar Lal Bagaria"
+                                                                        title:"Rameshwar Lal Bagaria",
+                                                                        name:"Basanti Devi"
                                                                     },
                                                                     //childrenDropLevel: 1,
                                                                     children: [
@@ -490,7 +498,8 @@
                                                                                             children:[
                                                                                                 {
                                                                                                     text:{
-                                                                                                        title:"Piyush Bagaria"
+                                                                                                        title:"Piyush Bagaria",
+                                                                                                        name:"Monika"
                                                                                                     }
                                                                                                 }
                                                                                             ]
@@ -601,7 +610,8 @@
                                                                                                 },
                                                                                                 {
                                                                                                     text:{
-                                                                                                        title:"Harsh Vardhan Saraf"
+                                                                                                        title:"Harsh Vardhan Saraf",
+                                                                                                        name:"Subah"
                                                                                                     }
                                                                                                 }
                                                                                             ]
@@ -621,6 +631,18 @@
                                                                                                         {
                                                                                                             text:{
                                                                                                                 title:"Aadhya Mor"
+                                                                                                            }
+                                                                                                        },
+                                                                                                        {
+                                                                                                            text:{
+                                                                                                                title:"Arush Mor",
+                                                                                                                name:"(twins)"
+                                                                                                            }
+                                                                                                        },
+                                                                                                        {
+                                                                                                            text:{
+                                                                                                                title:"Ahan Mor",
+                                                                                                                name:"(twins)"
                                                                                                             }
                                                                                                         }
                                                                                                     ]
@@ -721,12 +743,14 @@
                                                                                             children:[
                                                                                                 {
                                                                                                     text:{
-                                                                                                        title:"Neha Bagaria"
+                                                                                                        title:"Neha",
+                                                                                                        name:"Dinesh Bagaria"
                                                                                                     }
                                                                                                 },
                                                                                                 {
                                                                                                     text:{
-                                                                                                        title:"Harsh Vardhan Bagaria"
+                                                                                                        title:"Harsh Vardhan Bagaria",
+                                                                                                        name:"Parina"
                                                                                                     }
                                                                                                 }
                                                                                             ]
@@ -745,7 +769,8 @@
                                                                                                 },
                                                                                                 {
                                                                                                     text:{
-                                                                                                        title:"Prerna Kayal"
+                                                                                                        title:"Prerna",
+                                                                                                        name:"Chandan Bhalotia"
                                                                                                     }
                                                                                                 }
                                                                                             ]
@@ -776,7 +801,8 @@
                                                                                             children:[
                                                                                                 {
                                                                                                     text:{
-                                                                                                        title:"Navneet Saraf"
+                                                                                                        title:"Navneet Saraf",
+                                                                                                        name:"Sneha"
                                                                                                     }
                                                                                                 },
                                                                                                 {
@@ -975,7 +1001,8 @@
                                                                                                 },
                                                                                                 {
                                                                                                     text:{
-                                                                                                        title:"Subham Dhanuka"
+                                                                                                        title:"Subham Dhanuka",
+                                                                                                        name:"Sonal"
                                                                                                     }
                                                                                                 }
                                                                                             ]
@@ -988,7 +1015,8 @@
                                                                                             children:[
                                                                                                 {
                                                                                                     text:{
-                                                                                                        title:"Sonam Khemka"
+                                                                                                        title:"Sonam",
+                                                                                                        name:"Subham Bhageria"
                                                                                                     }
                                                                                                 },
                                                                                                 {
