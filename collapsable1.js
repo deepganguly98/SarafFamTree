@@ -21,7 +21,7 @@ var chart_config = {
         text: {
             
             
-            title:"Sri Jaj Raj Ji Saraf"
+            title:" Jaj Raj Saraf"
             
         },
         
@@ -29,129 +29,129 @@ var chart_config = {
                 {
                     //collapsed:true,
                     text: {
-                        title:"Sri Nourang Rai Ji"
+                        title:" Nourang Rai Saraf"
                     },
                     children: [
                         {
                             //collapsed:true,
                             text: {
-                                title:"Sri Pali Ram Ji"
+                                title:" Pali Ram Saraf"
                             },
                             children: [
                                 {
                                     //collapsed:true,
                                     text: {
-                                        title:"Sri Mali Ram Ji"
+                                        title:" Mali Ram Saraf"
                                     },
                                     children: [
                                         {
                                             //collapsed:true,
                                             text: {
-                                                title:"Sri Audarsi Das Ji"
+                                                title:" Audarsi Das Saraf"
                                             },
                                             children: [
                                                 {
                                                     //collapsed:true,
                                                     text: {
-                                                        title:"Sri Suraj Mal Ji"
+                                                        title:" Suraj Mal Saraf"
                                                     },
                                                     children: [
                                                         {
                                                             //collapsed:true,
                                                             text: {
-                                                                title:"Sri Tek Chand Ji"
+                                                                title:" Tek Chand Saraf"
                                                             },
                                                             children: [
                                                                 {
                                                                     //collapsed:true,
                                                                     text: {
-                                                                        title:"Sri Chaju Ram Ji"
+                                                                        title:" Chaju Ram Saraf"
                                                                     },
                                                                     children: [
                                                                         {
                                                                             //collapsed:true,
                                                                             text: {
-                                                                                title:"Sri Sova Ram Ji"
+                                                                                title:" Sova Ram Saraf"
                                                                             },
                                                                             children: [
                                                                                 {
                                                                                     //collapsed:true,
                                                                                     text: {
-                                                                                        title:"Sri Dalu Ram Ji"
+                                                                                        title:" Dalu Ram Saraf"
                                                                                     },
                                                                                     children: [
                                                                                         {
                                                                                             //collapsed:true,
                                                                                             text: {
-                                                                                                title:"Sri Ram Ratan Saraf"
+                                                                                                title:" Ram Ratan Saraf"
                                                                                             },
                                                                                             children: [
                                                                                                 {
                                                                                                     //collapsed:true,
                                                                                                     text: {
-                                                                                                        title:"Sri Madho Prasad Saraf"
+                                                                                                        title:" Madho Prasad Saraf"
                                                                                                     },
                                                                                                     children: [
                                                                                                         {
                                                                                                             //collapsed:true,
                                                                                                             text: {
-                                                                                                                title:"Sri Lachmi Narayan Saraf"
+                                                                                                                title:" Lachmi Narayan Saraf"
                                                                                                             },
                                                                                                             children: [
                                                                                                                 {
                                                                                                                     collapsed:true,
                                                                                                                     text: {
-                                                                                                                        title:"Sri Shankar Mal Saraf"
+                                                                                                                        title:" Shankar Mal Saraf"
                                                                                                                     },
                                                                                                                     children: [
                                                                                                                         {
                                                                                                                             collapsed:true,
                                                                                                                             text: {
-                                                                                                                                title:"Sri Dhyan Das Saraf"
+                                                                                                                                title:" Dhyan Das Saraf"
                                                                                                                             },
                                                                                                                             children: [
                                                                                                                                 {
                                                                                                                                     collapsed:true,
                                                                                                                                     text: {
-                                                                                                                                        title:"Sri Bal Chand Saraf"
+                                                                                                                                        title:" Bal Chand Saraf"
                                                                                                                                     },
                                                                                                                                     children: [
                                                                                                                                         {
                                                                                                                                             collapsed:true,
                                                                                                                                             text: {
-                                                                                                                                                title:"Sri Sova Chand Saraf"
+                                                                                                                                                title:" Sova Chand Saraf"
                                                                                                                                             },
                                                                                                                                             children: [
                                                                                                                                                 {
                                                                                                                                                     collapsed:true,
                                                                                                                                                     text: {
-                                                                                                                                                        title:"Sri Kalyan Mal Saraf"
+                                                                                                                                                        title:" Kalyan Mal Saraf"
                                                                                                                                                     },
                                                                                                                                                     children: [
                                                                                                                                                         {
                                                                                                                                                             collapsed:true,
                                                                                                                                                             text: {
-                                                                                                                                                                title:"Sri Mansha Ram Saraf"
+                                                                                                                                                                title:" Mansha Ram Saraf"
                                                                                                                                                             },
                                                                                                                                                             children: [
                                                                                                                                                                 {
                                                                                                                                                                     collapsed:true,
                                                                                                                                                                     text: {
-                                                                                                                                                                        title:"Sri Gulab Rai Saraf",
-                                                                                                                                                                        desc:"(moved to Ratanghar)"
+                                                                                                                                                                        title:" Gulab Rai Saraf",
+                                                                                                                                                                        desc:"(moved to Ratangarh)"
                                                                                                                                                                     },
                                                                                                                                                                     children: [
                                                                                                                                                                         {
                                                                                                                                                                             collapsed:true,
                                                                                                                                                                             text: {
-                                                                                                                                                                                title:"Sri Moji Ram Saraf",
-                                                                                                                                                                                desc:"(During 1828, he helped in establishing Ratanghar)"
+                                                                                                                                                                                title:" Moji Ram Saraf",
+                                                                                                                                                                                desc:"(During 1828, he helped in establishing Ratangarh)"
                                                                                                                                                                             },
                                                                                                                                                                             children: [
                                                                                                                                                                                 {
                                                                                                                                                                                     collapsed:true,
                                                                                                                                                                                     text: {
-                                                                                                                                                                                        title:"Sri Panraj Saraf"
+                                                                                                                                                                                        title:" Panraj Saraf"
                                                                                                                                                                                     },
                                                                                                                                                                                     children: [
                                                                                                                                                                                         {
@@ -160,7 +160,7 @@ var chart_config = {
             
             
                                                                                                                                                                                                 title:"Ganga Ram Saraf",
-                                                                                                                                                                                                desc:"(his three son build their own Heli in Ratangarh)"
+                                                                                                                                                                                                desc:"(his three son built their own Heli in Ratangarh)"
                                                                                                                                                                                                 
                                                                                                                                                                                             },
                                                                                                                                                                                             
@@ -661,7 +661,7 @@ var chart_config = {
                                                                                                                                                                                                                                     //collapsed:true,
                                                                                                                                                                                                                                     text:{
                                                                                                                                                                                                                                         title:"Mani Shankar Saraf",
-                                                                                                                                                                                                                                        name:"(Adopted by  Jaidev Saraf)"
+                                                                                                                                                                                                                                        name:"(Adopted by Jaidev Saraf)"
                                                                                                                                                                                                                                     }
                                                                                                                                                                                                                                 },
                                                                                                                                                                                                                                 {
@@ -673,7 +673,7 @@ var chart_config = {
                                                                                                                                                                                                                                         {
                                                                                                                                                                                                                                             //collapsed:true,
                                                                                                                                                                                                                                             text:{
-                                                                                                                                                                                                                                                title:"Dinesh Kumar Saraf (adopted)"
+                                                                                                                                                                                                                                                title:"Dinesh Kumar Saraf (adopted from Mani Shankar Saraf)"
                                                                                                                                                                                                                                             },
                                                                                                                                                                                                                                             children:[
                                                                                                                                                                                                                                                 {
@@ -693,8 +693,8 @@ var chart_config = {
                                                                                                                                                                                                                 {
                                                                                                                                                                                                                     //collapsed:true,
                                                                                                                                                                                                                     text:{
-                                                                                                                                                                                                                        title:"Ded Raj Saraf",
-                                                                                                                                                                                                                        name:"(adopted from Mani Shankar Saraf)"
+                                                                                                                                                                                                                        title:"Ded Raj Saraf (Adopted by brother, Mohan lal Saraf)"
+                                                                                                                                                                                                                        
                                                                                                                                                                                                                     }
                                                                                                                                                                                                                 }
                                                                                                                                                                                                             ]
@@ -737,7 +737,7 @@ var chart_config = {
                                                                                                                                                                                                                         {
                                                                                                                                                                                                                             //collapsed:true,
                                                                                                                                                                                                                             text:{
-                                                                                                                                                                                                                                title:"Sita Ram Saraf (adopted)"
+                                                                                                                                                                                                                                title:"Sita Ram Saraf (adopted from Gobardhan Das Saraf)"
                                                                                                                                                                                                                             },
                                                                                                                                                                                                                             children:[
                                                                                                                                                                                                                                 {
@@ -1093,6 +1093,13 @@ var chart_config = {
                                                                                                                                                                                                                                 {
                                                                                                                                                                                                                                     //collapsed:true,
                                                                                                                                                                                                                                     text:{
+                                                                                                                                                                                                                                        title:"Dinesh Kumar Saraf (Adopted by Ram Lal Saraf)"
+                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                    //collapsed:true,
+                                                                                                                                                                                                                                    text:{
                                                                                                                                                                                                                                         title:"Prem Saraf"
                                                                                                                                                                                                                                     },
                                                                                                                                                                                                                                     children:[
@@ -1102,14 +1109,8 @@ var chart_config = {
                                                                                                                                                                                                                                             }
                                                                                                                                                                                                                                         }
                                                                                                                                                                                                                                     ]
-                                                                                                                                                                                                                                },
-                                                                                                                                                                                                                                {
-                                                                                                                                                                                                                                    //collapsed:true,
-                                                                                                                                                                                                                                    text:{
-                                                                                                                                                                                                                                        title:"Dinesh Kumar Saraf",
-                                                                                                                                                                                                                                        name:"(adopted from Ded Raj Saraf)"
-                                                                                                                                                                                                                                    }
                                                                                                                                                                                                                                 }
+                                                                                                                                                                                                                                
                                                                                                                                                                                                                             ]
                                                                                                                                                                                                                         }
                                                                                                                                                                                                                     ]

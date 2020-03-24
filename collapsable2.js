@@ -51,8 +51,9 @@
                         {
                             collapsable:true,
                             text:{
-                                title:"Budhar Mal Saraogi",
-                                name:"Giniya Devi"
+                                
+                                title:"Giniya Devi",
+                                name:"Budhar Mal Saraogi",
                             },
                             children:[
                                 {
@@ -108,22 +109,11 @@
                         }
                     ]
                 },
-                {
-                    pseudo: true,
-                    children: [
-                        {
-                            collapsable:true,
-                            text:{
-                                title:"Durga Dutt Saraf",
-                                name:"Maniya Devi (First Wife)"
-                            }
-                        }
-                    ]
-                },
+                
                 {
                     collapsable:true,
                         text: {
-                            title:"Kamala Devi  (second wife)",
+                            title:"Kamala Devi",
                             name:"Durga Dutt Saraf (Maniya Devi - first wife)"
                     
                         },
@@ -192,28 +182,21 @@
                 {
                     collapsable:true,
                     text: {
-                        title:"Beshesar lal Poddar"
+                        title:"Hardei Devi",
+                        name:"Beshesar lal Poddar  (Mahadei Devi -second wife)"
                     },
-                    children:[
+                    children: [
                         {
                             collapsable:true,
                             text:{
-                                title:"Hardei Devi  (First wife)",
-                                name:"Beshesar lal Poddar  (Mahadei Devi -second wife)"
+                                title:"Sohan lal Poddar (Adopted)"
                             },
-                            childrenDropLevel : 0,
-                            children: [
-                            {
-                                collapsable:true,
-                                text:{
-                                    title:"Sohan lal Poddar (Adopted)"
-                                },
-                                children:[
+                            children:[
                                 {
                                     collapsable:true,
                                     text:{
-                                        name:"(First Wife)",
-                                        title:"Shanti Devi"
+                                        
+                                        title:"Shanti Devi (First Wife)"
                                     },
                                     children:[
                                         {
@@ -221,14 +204,16 @@
                                             text:{
                                                 title:"Hari Poddar"
                                             }
+
                                         }
                                     ]
+
                                 },
                                 {
                                     collapsable:true,
                                     text:{
-                                        name:"(Second Wife)",
-                                        title:"Savitri Devi"
+                                        
+                                        title:"Savitri Devi (Second Wife)"
                                     },
                                     children:[
                                         {
@@ -236,23 +221,13 @@
                                             text:{
                                                 title:"Ram Poddar"
                                             }
+
                                         }
                                     ]
                                 }
-
                             ]
                         }
                         
-                    ],
-                    },
-                        {
-                            collapsable:true,
-                            text:{
-                                title:"Mahadei Devi",
-                                name:"(Second Wife)"
-
-                            }
-                        }
                     ]
                    
 

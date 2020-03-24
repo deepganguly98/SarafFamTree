@@ -38,8 +38,8 @@
             children:[
                 {
                     text:{
-                        title:"Mohan Lal Tibrewala",
-                        name:"(either son or grand son of Sedu Mal)"
+                        title:"Mohan Lal Tibrewala (either son or grand son of Sedu Mal Tibrewala)"
+                        
                     },
                     children:[
                         {

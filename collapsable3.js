@@ -76,7 +76,8 @@
 
                                                                     //collapsed:true,
                                                                     text: {
-                                                                        title:"Hardeo Das Bagaria"
+                                                                        title:"Hardeo Das Bagaria",
+                                                                        name:"Smt."
                                                                     },
                                                                     
                                                                     children: [
@@ -95,13 +96,15 @@
                                                                         {
                                                                             //collapsed:true,
                                                                             text:{
-                                                                                title:"Atmaram Bagaria"
+                                                                                title:"Atmaram Bagaria",
+                                                                                name:"Smt."
                                                                             },
                                                                             children:[
                                                                                 {
                                                                                     //collapsed:true,
                                                                                     text:{
-                                                                                        title:"Iswar Dut Bagaria"
+                                                                                        title:"Iswar Dut Bagaria",
+                                                                                        name:"Smt."
                                                                                     },
                                                                                     children:[
                                                                                         {
@@ -123,7 +126,8 @@
                                                                         {
                                                                             //collapsed:true,
                                                                             text:{
-                                                                                title:"Gokul Das Bagaria"
+                                                                                title:"Gokul Das Bagaria",
+                                                                                name:"Smt."
                                                                             },
                                                                             children:[
                                                                                 {
@@ -143,7 +147,7 @@
                                                                                 {
                                                                                     //collapsed:true,
                                                                                     text:{
-                                                                                        title:"(Mrs….. (First wife )"
+                                                                                        title:"Smt. (First wife )"
                                                                                     },
                                                                                     children:[
                                                                                         {
@@ -158,14 +162,14 @@
                                                                                 {
                                                                                     //collapsed:true,
                                                                                     text:{
-                                                                                        title:"Mohari Devi (Second wife)"
+                                                                                        title:"Mohari Devi (Second wife) (Tiberawala Sisters)"
                                                                                     },
                                                                                     children:[
                                                                                         {
                                                                                             //collapsed:true,
                                                                                             text:{
-                                                                                                title:"Girdhari Lal Bagaria",
-                                                                                                desc:"(adopted from Babu Lal & Purni Devi Bagaria)",
+                                                                                                title:"Girdhari Lal Bagaria (adopted from Babu Lal & Purni Devi Bagaria)",
+                                                                                                
                                                                                                 name:"Sushila"
                                                                                             },
                                                                                             children:[
@@ -189,7 +193,7 @@
                                                                                                                 },
                                                                                                                 {
                                                                                                                     text:{
-                                                                                                                        title:"Resham"
+                                                                                                                        title:"Resham Bagaria"
                                                                                                                     }
                                                                                                                 }
                                                                                                             ]
@@ -231,14 +235,14 @@
                                                                             //collapsed:true,
                                                                             text:{
                                                                                 title:"Babu Lal Bagaria",
-                                                                                desc:" (Adopted from Hardeo Das Bagaria)",
-                                                                                name:"Purni Devi"
+                                                                                desc:"(adopted by Rameshwar Lal & Basanti Devi Bagaria)"
+                                                                                
 
                                                                             }
                                                                         },
                                                                         {
                                                                             text:{
-                                                                                title:"Bagaria Ji"
+                                                                                title:"Bagaria"
                                                                             }
                                                                         }
                                                                     ]
@@ -254,8 +258,8 @@
                                                                         {
                                                                             //collapsed:true,
                                                                             text:{
-                                                                                title:"(adopted)  Babu Lal Bagaria",
-                                                                                name:"Purni Devi"
+                                                                                title:"Babu Lal Bagaria (Adopted from Hardeo Das Bagaria)",
+                                                                                name:"Purni Devi  (Tiberawala Sisters)"
                                                                             },
                                                                             childrenDropLevel:2,
                                                                             children:[
@@ -1060,7 +1064,7 @@
                                                                                     //collapsed:true,
                                                                                     text:{
                                                                                         title:"Girdhari Lal Bagaria",
-                                                                                        name:"(adopted by Nagar Mal Bagaria & Mohari Devi)"
+                                                                                        name:"(adopted by Nagar Mal Bagaria & Mohari Devi Bagaria)"
                                                                                     }
                                                                                 },
                                                                                 {
@@ -1326,7 +1330,8 @@
                                                                 {
                                                                     //collapsed:true,
                                                                     text: {
-                                                                        title:"Gajanand Bagaria"
+                                                                        title:"Gajanand Bagaria",
+                                                                        name:"Smt."
                                                                     },
                                                                     //childrenDropLevel: 1,
                                                                     children: [
