@@ -180,7 +180,7 @@ text:{
                                                                                     //collapsed:true,
                                                                                     collapsed:true,
 text:{
-                                                                                        title:"Mohari Devi (Second wife) (Tiberawala Sisters)"
+                                                                                        title:"Mohari Devi (Second wife) (Tiberawala Sisters)*"
                                                                                     },
                                                                                     children:[
                                                                                         {
@@ -289,7 +289,7 @@ text:{
                                                                             collapsed:true,
 text:{
                                                                                 title:"Babu Lal Bagaria (Adopted from Hardeo Das Bagaria)",
-                                                                                name:"Purni Devi  (Tiberawala Sisters)"
+                                                                                name:"Purni Devi  (Tiberawala Sisters)*"
                                                                             },
                                                                             childrenDropLevel:2,
                                                                             children:[
