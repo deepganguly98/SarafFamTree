@@ -18,27 +18,27 @@ var chart_config = {
     },
     nodeStructure: {
         //collapsed:true,    
-                collapsed:true,
+                //collapsed:true,
                 text: {
                     title:"Gulab Rai Saraf",
                     name:"(moved to Ratangarh)"
                 },
                 children: [
                     {
-                        collapsed:true,
+                        //collapsed:true,
                         text: {
                             title:"Moji Ram Saraf",
                             name:"(During 1828, he helped in establishing Ratangarh)"
                         },
                         children: [
                             {
-                                collapsed:true,
+                                //collapsed:true,
                                 text: {
                                     title:"Panraj Saraf"
                                 },
                                 children: [
                                     {
-                                        collapsed:true,
+                                        //collapsed:true,
                                         text: {
                                             title:"Ganga Ram Saraf",
                                             name:"(his three sons built their own Heli in Ratangarh)"

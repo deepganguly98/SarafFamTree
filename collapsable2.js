@@ -16,40 +16,103 @@
             }
         },
         nodeStructure: {
-            collapsable:true,
+            collapsed:true,
 			text: {
                 title:" Brota Pratap Mal Harlalka"
 			},
             children: [
                 { 
-                    collapsable:true,
+                    collapsed:true,
 					text: {	
                         title:"Smt.",
                         name:"Ram Kumar Saraf"
                     }
                 },
+                
+				                
                 {
-                    collapsable:true,
-                    text:{
-                        title:"Smt.",
-                        name:"Baccha Ram Parasrampuria"
-                    },
+                    collapsed:true,
+                        text: {
+                            title:"Kamala Devi",
+                            name:"Durga Dutt Saraf (Maniya Devi - first wife)"
+                    
+                        },
+                        childrenDropLevel: 5,
+                        children: [
+                        {
+                            collapsed:true,
+                            text:{
+                                title:"Manohari Devi",
+                                name:"Satya Narayan Poddar"
+                            }
+                        },
+                        {
+                            collapsed:true,
+                            text:{
+                                title:"Rukmani Devi",
+                                name:"Mali Ram Jhunjhunwala"
+                            }
+                        },
+                        {
+                            collapsed:true,
+                            text:{
+                                title:"Ginia Devi",
+                                name:"Prem Sukh Bharech"
+                            }
+                        },
+                        {
+                            collapsed:true,
+                            text:{
+                                title:"Parmeswari Devi",
+                                name:"Gouri Sankar Maskara -(Bagawati Devi -second wife)"
+                            }
+                        },
+                        {
+                            collapsed:true,
+                            text:{
+                                title:" Shyam Sunder Saraf",
+                                name:" Rama Devi"
+                            }
+                        },
+                        {
+                            collapsed:true,
+                            text:{
+                                title:"Radhe Shyam Saraf",
+                                name:"Ratana Devi"
+                            }
+                        },
+                        {
+                            collapsed:true,
+                            text:{
+                                title:"Ram Gopal Saraf",
+                                name:"Sankuntala Devi"
+                            }
+                        },
+                        {
+                            collapsed:true,
+                            text:{
+                                title:"Rama Devi",
+                                name:"Kashi Prashad Chowdhary"
+                            }
+                        }
+
+                     ]
                 },
-				{
-                    collapsable:true,
+                {
+                    collapsed:true,
 					text: {
                         title:"Banarasi Devi",
                         name:"Gajanand Jalan"
 					},
                     children: [
                         {
-                            collapsable:true,
+                            collapsed:true,
                             text:{
                                 title:"Nand Lal Jalan"
                             }  
                         },
                         {
-                            collapsable:true,
+                            collapsed:true,
                             text:{
                                 
                                 title:"Giniya Devi",
@@ -57,7 +120,7 @@
                             },
                             children:[
                                 {
-                                    collapsable:true,
+                                    collapsed:true,
                                     text:{
                                         title:"Ganshyam Saraogi"
                                     }
@@ -65,7 +128,7 @@
                             ]
                         },
                         {
-                            collapsable:true,
+                            collapsed:true,
                             text:{
                                 
                                 title:"Gayatri Devi",
@@ -74,32 +137,32 @@
                             childrenDropLevel:3,
                             children:[
                                 {
-                                    collapsable:true,
+                                    collapsed:true,
                                     text:{
                                         title:"Arun Kakrania"
                                     }
                                 },
                                 {
-                                    collapsable:true,
+                                    collapsed:true,
                                     text:{
                                         title:"Ajay Kakrania"
                                     }
                                 },
                                 {
-                                    collapsable:true,
+                                    collapsed:true,
                                     text:{
                                         title:"Rajesh Kakrania"
                                     }
                                 },
                                 {
-                                    collapsable:true,
+                                    collapsed:true,
                                     text:{
                                         title:"Saroj",
                                         name:"Mahavir Saraf"
                                     }
                                 },
                                 {
-                                    collapsable:true,
+                                    collapsed:true,
                                     text:{
                                         title:"Sushma",
                                         name:"Sanjay Pansari"
@@ -109,98 +172,36 @@
                         }
                     ]
                 },
-                
-                {
-                    collapsable:true,
-                        text: {
-                            title:"Kamala Devi",
-                            name:"Durga Dutt Saraf (Maniya Devi - first wife)"
-                    
-                        },
-                        childrenDropLevel: 5,
-                        children: [
-                        {
-                            collapsable:true,
-                            text:{
-                                title:"Manohari Devi",
-                                name:"Satya Narayan Poddar"
-                            }
-                        },
-                        {
-                            collapsable:true,
-                            text:{
-                                title:"Rukmani Devi",
-                                name:"Mali Ram Jhunjhunwala"
-                            }
-                        },
-                        {
-                            collapsable:true,
-                            text:{
-                                title:"Ginia Devi",
-                                name:"Prem Sukh Bharech"
-                            }
-                        },
-                        {
-                            collapsable:true,
-                            text:{
-                                title:"Parmeswari Devi",
-                                name:"Gouri Sankar Maskara -(Bagawati Devi -second wife)"
-                            }
-                        },
-                        {
-                            collapsable:true,
-                            text:{
-                                title:" Shyam Sunder Saraf",
-                                name:" Rama Devi"
-                            }
-                        },
-                        {
-                            collapsable:true,
-                            text:{
-                                title:"Radhe Shyam Saraf",
-                                name:"Ratana Devi"
-                            }
-                        },
-                        {
-                            collapsable:true,
-                            text:{
-                                title:"Ram Gopal Saraf",
-                                name:"Sankuntala Devi"
-                            }
-                        },
-                        {
-                            collapsable:true,
-                            text:{
-                                title:"Rama Devi",
-                                name:"Kashi Prashad Chowdhary"
-                            }
-                        }
 
-                     ]
-                },
-                
                 {
-                    collapsable:true,
+                    collapsed:true,
+                    text:{
+                        title:"Smt.",
+                        name:"Baccha Ram Parasrampuria"
+                    },
+                },
+                {
+                    collapsed:true,
                     text: {
                         title:"Hardei Devi",
                         name:"Beshesar lal Poddar  (Mahadei Devi -second wife)"
                     },
                     children: [
                         {
-                            collapsable:true,
+                            collapsed:true,
                             text:{
                                 title:"Sohan lal Poddar (Adopted)"
                             },
                             children:[
                                 {
-                                    collapsable:true,
+                                    collapsed:true,
                                     text:{
                                         
                                         title:"Shanti Devi (First Wife)"
                                     },
                                     children:[
                                         {
-                                            collapsable:true,
+                                            collapsed:true,
                                             text:{
                                                 title:"Hari Poddar"
                                             }
@@ -210,14 +211,14 @@
 
                                 },
                                 {
-                                    collapsable:true,
+                                    collapsed:true,
                                     text:{
                                         
                                         title:"Savitri Devi (Second Wife)"
                                     },
                                     children:[
                                         {
-                                            collapsable:true,
+                                            collapsed:true,
                                             text:{
                                                 title:"Ram Poddar"
                                             }
@@ -233,14 +234,14 @@
 
                 },
                 {
-                    collapsable:true,
+                    collapsed:true,
                     text:{
                         title:"Shiv Bux Harlalka",
                         name:"Narayani Devi"
                     },
                     children: [
                         {
-                            collapsable:true,
+                            collapsed:true,
                             text:{
                                 title:"Purshottam Harlalka",
                                 name:"Raj Kumari"
@@ -248,21 +249,21 @@
                             
                             children : [
                                 {
-                                    collapsable:true,
+                                    collapsed:true,
                                     text:{
                                         title:"Arvind Harlalka"
                                     }
                                     
                                 },
                                 {
-                                    collapsable:true,
+                                    collapsed:true,
                                     text:{
                                         title:"Alok Harlalka"
                                     }
                                     
                                 },
                                 {
-                                    collapsable:true,
+                                    collapsed:true,
                                     text:{
                                         title:"Sumit Harlalka"
                                     }
