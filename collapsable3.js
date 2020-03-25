@@ -1218,7 +1218,7 @@ text:{
                                                                                     collapsed:true,
 text:{
                                                                                         title:"Girdhari Lal Bagaria",
-                                                                                        name:"(adopted by Nagar Mal Bagaria & Mohari Devi Bagaria)"
+                                                                                        name:"(adopted by Nagar Mal & Mohari Devi Bagaria)"
                                                                                     }
                                                                                 },
                                                                                 {
