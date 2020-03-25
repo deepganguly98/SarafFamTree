@@ -99,57 +99,57 @@ var chart_config = {
                                                                                                             },
                                                                                                             children: [
                                                                                                                 {
-                                                                                                                    collapsed:true,
+                                                                                                                    //collapsed:true,
                                                                                                                     text: {
                                                                                                                         title:" Shankar Mal Saraf"
                                                                                                                     },
                                                                                                                     children: [
                                                                                                                         {
-                                                                                                                            collapsed:true,
+                                                                                                                            //collapsed:true,
                                                                                                                             text: {
                                                                                                                                 title:" Dhyan Das Saraf"
                                                                                                                             },
                                                                                                                             children: [
                                                                                                                                 {
-                                                                                                                                    collapsed:true,
+                                                                                                                                    //collapsed:true,
                                                                                                                                     text: {
                                                                                                                                         title:" Bal Chand Saraf"
                                                                                                                                     },
                                                                                                                                     children: [
                                                                                                                                         {
-                                                                                                                                            collapsed:true,
+                                                                                                                                            //collapsed:true,
                                                                                                                                             text: {
                                                                                                                                                 title:" Sova Chand Saraf"
                                                                                                                                             },
                                                                                                                                             children: [
                                                                                                                                                 {
-                                                                                                                                                    collapsed:true,
+                                                                                                                                                    //collapsed:true,
                                                                                                                                                     text: {
                                                                                                                                                         title:" Kalyan Mal Saraf"
                                                                                                                                                     },
                                                                                                                                                     children: [
                                                                                                                                                         {
-                                                                                                                                                            collapsed:true,
+                                                                                                                                                            //collapsed:true,
                                                                                                                                                             text: {
                                                                                                                                                                 title:" Mansha Ram Saraf"
                                                                                                                                                             },
                                                                                                                                                             children: [
                                                                                                                                                                 {
-                                                                                                                                                                    collapsed:true,
+                                                                                                                                                                    //collapsed:true,
                                                                                                                                                                     text: {
                                                                                                                                                                         title:" Gulab Rai Saraf",
                                                                                                                                                                         desc:"(moved to Ratangarh)"
                                                                                                                                                                     },
                                                                                                                                                                     children: [
                                                                                                                                                                         {
-                                                                                                                                                                            collapsed:true,
+                                                                                                                                                                            //collapsed:true,
                                                                                                                                                                             text: {
                                                                                                                                                                                 title:" Moji Ram Saraf",
                                                                                                                                                                                 desc:"(During 1828, he helped in establishing Ratangarh)"
                                                                                                                                                                             },
                                                                                                                                                                             children: [
                                                                                                                                                                                 {
-                                                                                                                                                                                    collapsed:true,
+                                                                                                                                                                                    //collapsed:true,
                                                                                                                                                                                     text: {
                                                                                                                                                                                         title:" Panraj Saraf"
                                                                                                                                                                                     },
@@ -160,7 +160,7 @@ var chart_config = {
             
             
                                                                                                                                                                                                 title:"Ganga Ram Saraf",
-                                                                                                                                                                                                desc:"(his three son built their own Heli in Ratangarh)"
+                                                                                                                                                                                                desc:"(his three sons built their own Heli in Ratangarh)"
                                                                                                                                                                                                 
                                                                                                                                                                                             },
                                                                                                                                                                                             
