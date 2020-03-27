@@ -1484,6 +1484,12 @@ var chart_config = {
                                                                                                 text: {
                                                                                                     title:"Trigya Saraf"
                                                                                                 }
+                                                                                            },
+                                                                                            {
+                                                                                                collapsed:true,
+                                                                                                text:{
+                                                                                                    title:"Girl/Angel"
+                                                                                                }
                                                                                             }
                                                                                         ]
                                                                                     },
